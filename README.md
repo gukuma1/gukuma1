@@ -24,7 +24,7 @@
 <h3>🎯 Interesses:</h3>
 <ul>
   <li>Desenvolvimento Front-End</li>
-  <li>Gerência de Projetos</li>
+  <li>Automação com n8n</li>
   <li>Análise de Requisitos</li>
 </ul>
 <hr />
